@@ -1,0 +1,3 @@
+This file was created through NodeJs.Hi I am using the appendFileSync() method.
+
+Hi I am using the appendFileSync() method.
